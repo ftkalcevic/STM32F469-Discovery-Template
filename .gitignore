@@ -344,3 +344,5 @@ healthchecksdb
 *.out
 *.exe
 /TouchGFX/TouchGFX/build/STM32F469-DISCO
+.metadata
+RemoteSystemsTempFiles/.project
