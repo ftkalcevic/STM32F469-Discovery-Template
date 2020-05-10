@@ -12,6 +12,7 @@ It took me almost 3 days to get a these products to work together.  This reposit
 ## Tips...
 
 Edit the TouchGFX files using the standalone application, TouchGFX, by openning the file "\TouchGFX\TouchGFX\TouchGFX.touchgfx" directly.  Don't open it in CubeIDE.
+
 Edit the CubeMX files directly in the standalone application, STM32CubeMX, by openning the file "\TouchGFX\STM32F469I-DISCO.ioc" directly.  Don't open it in CubeIDE.
 
 Generate the TouchGFX code in TouchGFX.  Use CubeMX to generate code for peripheral initialisation.
