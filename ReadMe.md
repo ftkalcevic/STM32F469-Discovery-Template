@@ -11,6 +11,12 @@ It took me almost 3 days to get a these products to work together.  This reposit
 
 ## Tips...
 
+```diff
+- The biggest tip - Don't update the firmware of the inbuilt st-link debugger - things just don't work.  
+- I've rolled back to V2.J34.M25, STM32 Debug+VCP.
+```
+
+
 Edit the TouchGFX files using the standalone application, TouchGFX, by openning the file "\TouchGFX\TouchGFX\TouchGFX.touchgfx" directly.  Don't open it in CubeIDE.
 
 Edit the CubeMX files directly in the standalone application, STM32CubeMX, by openning the file "\TouchGFX\STM32F469I-DISCO.ioc" directly.  Don't open it in CubeIDE.
